@@ -1,0 +1,1 @@
+## Assign a policy to all files in a library
